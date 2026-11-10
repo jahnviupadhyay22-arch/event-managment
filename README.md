@@ -1,31 +1,22 @@
-# 🎉 EventEase – Event Management System
+# EventEase - Event Management Web Application
 
-A simple web application to explore, search, filter, and book events.
+A responsive web application built with Python (Flask) for managing event registrations and bookings.
 
-## ✨ Features
+## 📌 Features
 - Browse upcoming events
-- Search and filter events
-- Easy event booking
-- Registration form
-- Store booking details in SQLite
-- Responsive design
+- Event registration and attendee booking
+- Dynamic data handling with SQLite backend
+- Clean, responsive UI with custom styling
 
 ## 🛠️ Tech Stack
-- HTML, CSS, JavaScript
-- Python, Flask
-- SQLite
+- **Backend:** Python, Flask
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Database:** SQLite (database.db)
 
-## 🚀 Run Locally
+## 🚀 How to Run Locally
 
-```bash
-git clone https://github.com/jahnviupadhyay22-arch/event-managment.git
-cd event-managment
-pip install flask
-python app.py
-```
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/jahnviupadhyay22-arch/event-managment.git](https://github.com/jahnviupadhyay22-arch/event-managment.git)
+   cd event-managment
 
-Open: `http://127.0.0.1:5000`
-
-## 👩‍💻 Developed By
-**Jahnvi Upadhyay**  
-B.Tech – Computer Science Engineering
