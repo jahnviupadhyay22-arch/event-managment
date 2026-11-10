@@ -19,4 +19,6 @@ A responsive web application built with Python (Flask) for managing event regist
    ```bash
    git clone [https://github.com/jahnviupadhyay22-arch/event-managment.git](https://github.com/jahnviupadhyay22-arch/event-managment.git)
    cd event-managment
+## 🔗 Live Demo
 
+[Click here to view EventEase](YOUR_LIVE_WEBSITE_LINK)
