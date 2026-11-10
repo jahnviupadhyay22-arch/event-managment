@@ -1,6 +1,8 @@
 # EventEase - Event Management Web Application
 
 A responsive web application built with Python (Flask) for managing event registrations and bookings.
+live link
+ https://event-managment-e23t.onrender.com
 
 ## 📌 Features
 - Browse upcoming events
@@ -12,11 +14,4 @@ A responsive web application built with Python (Flask) for managing event regist
 - **Backend:** Python, Flask
 - **Frontend:** HTML5, CSS3, JavaScript
 - **Database:** SQLite (database.db)
-
-## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/jahnviupadhyay22-arch/event-managment.git](https://github.com/jahnviupadhyay22-arch/event-managment.git)
-   cd event-managment
 
