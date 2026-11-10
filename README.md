@@ -21,4 +21,4 @@ A responsive web application built with Python (Flask) for managing event regist
    cd event-managment
 ## 🔗 Live Demo
 
-[Click here to view EventEase](YOUR_LIVE_WEBSITE_LINK)
+Open EventEase GitHub Repository
