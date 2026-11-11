@@ -2,8 +2,8 @@
 
 A responsive web application built with Python (Flask) for managing event registrations and bookings.
 live link
- https://event-managment-e23t.onrender.com
-
+ 
+https://event-managment-e23t.onrender.com
 ## 📌 Features
 - Browse upcoming events
 - Event registration and attendee booking
